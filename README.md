@@ -6,6 +6,7 @@ School project made in 2023 when I was 15. It was first made on Scratch and then
 Controls:
 
 Arrow keys: Move
+
 Z: Interact/Go to the next dialogue
 
 --------------------------------------------------------------------------------------
